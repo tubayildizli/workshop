@@ -5,5 +5,11 @@ fourth line
 fifth line
 sixth line
 seventh line
+<<<<<<< HEAD
 eighth line
 ninth line
+eight line
+ninth line
+tenth line on b1 branch
+eleventh line
+twelfth line
